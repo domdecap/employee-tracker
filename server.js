@@ -49,19 +49,19 @@ function startEmployeeTracker() {
 function menuOptions(data) {
     switch (data.action) {
       case "View All Employees":
-        employee.viewEmployees();
-        start();
+        viewEmployees();
+        startEmployeeTracker();
         break;
       case "View Employees By Manager":
         employeesByManager();
         break;
       case "View All Roles":
-        role.printRoles();
+        printRoles();
         start();
         break;
       case "View All Departments":
-        department.printDepartments();
-        start();
+        printDepartments();
+        startEmployeeTracker();
         break;
       case "Add Employee":
         addEmployee();
