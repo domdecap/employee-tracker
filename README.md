@@ -1,12 +1,12 @@
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)]() [![NodeJs Badge](https://img.shields.io/badge/NodeJs-339933?logo=node.js&logoColor=FFF&style=for-the-badge)]()  [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=FFF&style=for-the-badge)]()
 
-# [Note Taker](https://github.com/domdecap/employee-tracker)
+# [Employee Tracker](https://github.com/domdecap/employee-tracker)
 
 
 
 ## Description
 
-This is a note taker application. The purpose of this assignment was to familiarize myself with Express and further my abilities with Node. This application mainly works by utilizing GET and POST paths.
+This is an employee tracker application. The purpose of this assignment was to familiarize myself with PostgreSQL and further my abilities with Node. This purpose of this application was to further my knowledge of writing SQL commands to select, add, and update tables as needed.
 
 ## Technologies
 
@@ -41,7 +41,7 @@ https://github.com/domdecap/employee-tracker/assets/33850184/af732891-a303-48b6-
 
 ## Contributions
 
-I received help from my tutor Alexis on how to create the View All Employees and Add Emnployee options. I also utilized ChatGPT to help create and debug the remaining functions.
+I received help from my tutor Alexis on how to create the View All Employees and Add Employee options. I also utilized ChatGPT to help create and debug the remaining functions.
 
 ## 📜 License
 
