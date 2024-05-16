@@ -34,6 +34,10 @@ After following installation instructions, run ```node server.js``` in the integ
 
 
 
+https://github.com/domdecap/employee-tracker/assets/33850184/af732891-a303-48b6-aad2-b9e92041c50c
+
+
+
 
 ## Contributions
 
